@@ -42,6 +42,7 @@ public class myStreams {
 	public void testthis4() {
 		mystream("");
 		// This is more of a test
+		// More test
 	}
 
 }
