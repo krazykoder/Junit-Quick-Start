@@ -31,7 +31,7 @@ public class myStreams {
 	}
 
 	@Test
-	public void testthis3() {
+	public void testThis3() {
 		mystream("");
 //		Assert.assertEquals(mystream(""), true);
 //		Assert.assertEquals(pd.isPalindrome3("hello"), false);
@@ -39,7 +39,7 @@ public class myStreams {
 	}
 
 	@Test
-	public void testthis4() {
+	public void testThis4() {
 		mystream("");
 		// This is more of a test
 		// More test
