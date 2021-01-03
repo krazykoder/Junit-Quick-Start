@@ -37,4 +37,11 @@ public class myStreams {
 //		Assert.assertEquals(pd.isPalindrome3("hello"), false);
 //		Assert.assertEquals(pd.isPalindrome3("madam"), true);
 	}
+
+	@Test
+	public void testthis4() {
+		mystream("");
+		// This is more of a test
+	}
+
 }
